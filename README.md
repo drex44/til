@@ -18,7 +18,7 @@ _1 TILs and counting..._
 
 ### React
 
-- [Programmatically navigate using React Router](react/programmatically-navigate-using-react-router.md)
+- [Programmatically navigate using React Router](React/programmatically-navigate-using-react-router.md)
 
 ## About
 
