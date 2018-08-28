@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -34,6 +34,7 @@ _4 TILs and counting..._
 ### React
 
 - [Programmatically navigate using React Router](React/programmatically-navigate-using-react-router.md)
+- [Create protected routes using React Router](React/create-protected-routes-using-react-router.md)
 
 ## About
 
