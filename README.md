@@ -6,15 +6,16 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### Categories
 
 - [AWS](#aws)
-- [CDN](#cdn)
+- [CMS](#cms)
 - [Docker](#docker)
+- [NextJs](#nextjs)
 - [React](#react)
 
 ---
@@ -23,13 +24,17 @@ _5 TILs and counting..._
 
 - [How to use ClaudiaJs to deploy NodeJs applications to AWS Lambda](AWS/how-to-use-claudiajs-to-deploy-NodeJs-applications-to-aws-lambda.md)
 
-### CDN
+### CMS
 
-- [Use CDN like Prismic, Contentful, ButterCMS etc to create business user friendly dynamic sites](CDN/use-cdn-like-prismic-contentful-buttercms-etc-to-create-business-user-friendly-dynamic-sites.md)
+- [Use CMS like Prismic, Contentful, ButterCMS etc to create business user friendly dynamic sites](CMS/use-cms-like-prismic-contentful-buttercms-etc-to-create-business-user-friendly-dynamic-sites.md)
 
 ### Docker
 
 - [How to use docker for beginners](Docker/how-to-use-docker-for-beginners.md)
+
+### NextJs
+
+- [Why and How to get started with NextJs](NextJs/why-and-how-to-get-started-with-nextjs)
 
 ### React
 
