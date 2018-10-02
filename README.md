@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_7 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _7 TILs and counting..._
 - [AWS](#aws)
 - [CMS](#cms)
 - [Docker](#docker)
+- [GraphQL](#graphql)
 - [NextJs](#nextjs)
 - [React](#react)
 
@@ -32,6 +33,10 @@ _7 TILs and counting..._
 
 - [How to use docker for beginners](Docker/how-to-use-docker-for-beginners.md)
 
+### GraphQL
+
+- [What is and how to use GraphQL](GraphQL/what-is-and-how-to-use-graphql.md)
+
 ### NextJs
 
 - [Why and How to get started with NextJs](NextJs/why-and-how-to-get-started-with-nextjs)
@@ -41,6 +46,10 @@ _7 TILs and counting..._
 - [Programmatically navigate using React Router](React/programmatically-navigate-using-react-router.md)
 - [Create protected routes using React Router](React/create-protected-routes-using-react-router.md)
 - [Create and Publish a new React component](React/create-and-publish-react-component.md)
+
+### Nodejs
+
+npm install cost-of-modules -g
 
 ## About
 
