@@ -24,18 +24,18 @@ _9 TILs and counting..._
 ### Open Source Tools for Development
 
 #### Frontend
-- https://refine.dev/
-- https://remix.run/
+- [refine.dev](https://refine.dev/)
+- [remix.run](https://remix.run)
 
 #### Frontend Build Tools
-- https://vite.dev/
+- [vite](https://vite.dev)
 
 #### Backend
-- https://hasura.io/
-- https://supabase.com/
-- https://astro.build/
-- https://medusajs.com/
-- https://appwrite.io/
+- [hasura.io](https://hasura.io)
+- [supabase](https://supabase.com)
+- [astro.build](https://astro.build)
+- [appwrite](https://appwrite.io)
+- [medusajs](https://medusajs.com)
 
   
 ### AWS
