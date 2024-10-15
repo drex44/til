@@ -21,6 +21,23 @@ _9 TILs and counting..._
 
 ---
 
+### Open Source Tools for Development
+
+#### Frontend
+- https://refine.dev/
+- https://remix.run/
+
+#### Frontend Build Tools
+- https://vite.dev/
+
+#### Backend
+- https://hasura.io/
+- https://supabase.com/
+- https://astro.build/
+- https://medusajs.com/
+- https://appwrite.io/
+
+  
 ### AWS
 
 - [How to use ClaudiaJs to deploy NodeJs applications to AWS Lambda](AWS/how-to-use-claudiajs-to-deploy-NodeJs-applications-to-aws-lambda.md)
