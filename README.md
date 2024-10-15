@@ -26,15 +26,16 @@ _9 TILs and counting..._
 #### Frontend
 - [refine.dev](https://refine.dev/)
 - [remix.run](https://remix.run)
+- [astro.build](https://astro.build)
 
 #### Frontend Build Tools
 - [vite](https://vite.dev)
 
-#### Backend
-- [hasura.io](https://hasura.io)
+#### Backend as a service
 - [supabase](https://supabase.com)
-- [astro.build](https://astro.build)
 - [appwrite](https://appwrite.io)
+- [Pocketbase.io](https://pocketbase.io)
+- [hasura.io](https://hasura.io)
 - [medusajs](https://medusajs.com)
 
   
